@@ -1,5 +1,5 @@
 Mục đích sinh ra (Em muốn có một dự án nho nhỏ với a Bộ vừa là để năng cao kĩ thuật lập trình nhưng cũng vừa là để có thêm kinh nghiệm khi tham gia vào một dự án cụ thể để tạo ra sản phẩm dù là nhỏ)
-* Em thực ra cũng không biết nhiều về python nhưng em thấy vẫn có khả năng để phát triển cái app này(chúng ta code thể phát triển các thuật toán = C++/C)
+Em thực ra cũng không biết nhiều về python nhưng em thấy vẫn có khả năng để phát triển cái app này(chúng ta code thể phát triển các thuật toán = C++/C)
 Em sẽ mô tả sơ lược về các chức năng của nó:
 
 * 1: Nó sẽ khởi động song song và đồng thời khi máy tính khởi động
@@ -8,7 +8,7 @@ Em sẽ mô tả sơ lược về các chức năng của nó:
 
 * 3: Em muốn nó có thể truy cập được vào các web bằng dọng nói, can thiệp vào quá trình điều khiển máy tính(VD như mở phần mềm hỗ trợ gõ phím, hỗ trợ gõ, tiềm kiếm bạn bè trên các web chat như facebook, zalo, mess ...). Nếu anh Bộ cảm thấy chức năng gì không phù hợp hay nên phát triển thì em với anh có thể bàn bạc lại.
 
-* Khi đi vào phần code em sẽ nói rõ hơn về cách triển khai code vì em nghĩ trình bày nó khá dài nhưng dưới đây là sơ lược nhất về các triển code:
+Về phần code em có một vài ý tưởng nhỏ sau:
 
 * 1: Chúng ta sẽ gom những web tìm kiếm như (google, bing, duck, ...) vào 1 loại ID, (facebook, zalo, ...) vào 1 loại,các app trên máy tính vào 1 loại, cứ thế cứ thế chia nhỏ ra rồi phát triển từng ID thôi không cần đi quá sâu cho các web.
 
