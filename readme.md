@@ -13,7 +13,7 @@ Về phần code em có một vài ý tưởng nhỏ sau:
 
 * 1: Chúng ta sẽ gom những web tìm kiếm như (google, bing, duck, ...) vào 1 loại ID, (facebook, zalo, ...) vào 1 loại,các app trên máy tính vào 1 loại, cứ thế cứ thế chia nhỏ ra rồi phát triển từng ID thôi không cần đi quá sâu cho các web.
 
-* 2: Khi phát triền thì có nhiều cái em vẫn chưa hiểu rõ cách can thiệp như can thiệp vào font-end web để click vào thanh tìm kiếm hay để gõ phím ý nên chắc sau chúng ta phải tìm hiểu dần dần rồi
+* 2: Khi phát triền thì có nhiều cái em vẫn chưa hiểu rõ cách can thiệp như can thiệp vào font-end web để click vào thanh tìm kiếm hay để gõ phím ý nên nếu a Bộ biết thì sẽ rất tuyệt vời còn không thì chúng ta có thể tìm hiểu dần dần.
 
 * 3: Vì app này về bản chất là AI em cũng hi vọng chúng ta sẽ phát triển thế nào để con AI này nó có khả năng tự học hỏi thay vì chúng ta cứ phải nạp thông tin vào cho nó(cái này em với anh bàn bạc sau =)));
 
