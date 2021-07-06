@@ -1,5 +1,6 @@
 Mục đích sinh ra (Em muốn có một dự án nho nhỏ với a Bộ vừa là để năng cao kĩ thuật lập trình nhưng cũng vừa là để có thêm kinh nghiệm khi tham gia vào một dự án cụ thể để tạo ra sản phẩm dù là nhỏ)
-Em thực ra cũng không biết nhiều về python nhưng em thấy vẫn có khả năng để phát triển cái app này(chúng ta code thể phát triển các thuật toán = C++/C)
+
+Em thực ra cũng không biết nhiều về python nhưng em thấy em và anh vẫn có khả năng để phát triển cái app này(chúng ta code thể phát triển các thuật toán = C++/C)
 Em sẽ mô tả sơ lược về các chức năng của nó:
 
 * 1: Nó sẽ khởi động song song và đồng thời khi máy tính khởi động
